@@ -8,5 +8,5 @@ todo
 ```
 
 
-![AI Training Compute Trend]([JPGs/CPGAI_Figure_Compute-for-AI-Training-Combined-Half-Half.jpg])
+![AI Training Compute Trend](JPGs/CPGAI_Figure_Compute-for-AI-Training-Combined-Half-Half.jpg)
 
